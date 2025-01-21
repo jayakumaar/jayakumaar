@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Full Stack<br>👯 I’m looking to collaborate on Any projects<br>🤝 I’m looking for help with Development and open source<br>🌱 I’m currently learning AI, ML<br>💬 Ask me about Tech<br>
 
 
